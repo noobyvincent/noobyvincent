@@ -1,11 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
 
 body{
 	font-family: 'Open Sans',serif;
 }
 
-
+.about{
+	width: auto;
+	height: auto;
+}
 h1 { 
 	font-family: "Open Sans"; 
 	font-size: 24px; font-style: normal;
